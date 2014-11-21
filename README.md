@@ -1,6 +1,6 @@
 thai-wordcut-js
 ===============
-
+Thai word breaker
 fork from https://github.com/veer66/wordcut
 
 ใช้สำหรับตัดแบ่งคำในภาษาไทยจากประโยคเป็นคำๆ
